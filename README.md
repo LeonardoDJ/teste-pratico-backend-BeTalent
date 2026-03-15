@@ -281,13 +281,13 @@ Logo no começo quase desisti, sério. Olhei o tanto de coisa que tinha que faze
 Quando finalmente consegui fazer o login funcionar e veio o token... nossa, que sensação boa! Depois quando a compra deu certo, aí sim fiquei feliz demais. Ver algo que você fez funcionando, ainda mais com tecnologia nova, é muito gratificante.
 
 ## O que aprendi:
-Aprendi muita coisa durante esse teste, principalmente como seria trabalhar na área que eu quero. Confesso que usei bastante IA pra me ajudar, principalmente na hora dos códigos, porque nunca tinha feito uma API de pagamento e muito menos usando Node.js. A IA me ajudou a entender conceitos, corrigir erros e me mostrar caminhos, mas quem tava no controle era eu, testando, quebrando cabeça e vendo o que funcionava.
+Aprendi muita coisa durante esse teste, principalmente como seria trabalhar na área que eu quero. Confesso que usei IA pra me ajudar em alguns momentos, principalmente na hora dos códigos, porque nunca tinha feito uma API de pagamento e muito menos usando Node.js. Mas também assisti muitos vídeos no YouTube sobre API, estudei documentação e fui testando até funcionar. A IA me ajudou a entender conceitos, corrigir erros e me mostrar caminhos, mas quem tava no controle era eu, testando, quebrando cabeça e vendo o que funcionava.
 
 ## O que preciso melhorar:
 Percebi que tenho que estudar mais sobre APIs, como deixar elas mais organizadas, mais seguras e com código mais limpo. Também quero aprender sobre testes automatizados, documentação melhor e como estruturar projetos maiores. Esse teste me mostrou na prática o que eu preciso estudar daqui pra frente.
 
 ## No geral:
-Foi um desafio enorme, aprendi pra caramba e no final valeu cada minuto. Agora me sinto mais preparado pra encarar outros projetos e mais perto de alcançar meu objetivo de trabalhar na área.
+Foi um desafio enorme, aprendi muito e no final valeu cada minuto. Agora me sinto mais preparado pra encarar outros projetos e mais perto de alcançar meu objetivo de trabalhar na área.
 
 # Desenvolvido por Leonardo Delfino José
 📅 Março/2026
