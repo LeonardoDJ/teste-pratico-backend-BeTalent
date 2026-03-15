@@ -269,7 +269,7 @@ start/
 ```
 # Minha experiência
 ## Sobre o AdonisJS:
-Eu nunca tinha ouvido falar do AdonisJS antes desse teste. Sempre via a galera falando de Node.js mas nunca tinha mexido. Quis experimentar algo novo e confesso que gostei bastante de trabalhar com ele. Achei a estrutura organizada e faz sentido depois que você entende.
+Eu nunca tinha ouvido falar do AdonisJS antes desse teste. Sempre via o pessoal falando de Node.js mas nunca tinha mexido. Quis experimentar algo novo e confesso que gostei bastante de trabalhar com ele. Achei a estrutura organizada e faz sentido depois que você entende.
 
 ## A parte que mais gostei:
 Foi fazer o fallback dos gateways. Nunca tinha feito nada parecido, de um sistema tentar uma coisa e se não der certo tentar outra automaticamente. Quando vi funcionando pela primeira vez, mandei um CVV que dava erro no primeiro gateway e ele foi pro segundo e deu certo, achei muito legal. Parece mágica mas é código kkkk
